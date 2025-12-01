@@ -1,0 +1,77 @@
+# ============================================
+# IntelliJ IDEA
+# ============================================
+.idea/
+*.iml
+*.iws
+out/
+
+# Plugins de IntelliJ
+.idea_modules/
+*.ipr
+
+# Archivos de configuración de IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# ============================================
+# Java
+# ============================================
+*.class
+*.log
+
+# ============================================
+# Maven
+# ============================================
+target/
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/maven-wrapper.jar
+!**/src/test/**/maven-wrapper.jar
+
+# ============================================
+# Gradle
+# ============================================
+build/
+.gradle/
+**/build/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/gradle-wrapper.jar
+!**/src/test/**/gradle-wrapper.jar
+
+# ============================================
+# Sistema operativo
+# ============================================
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Archivos temporales
+# ============================================
+*.tmp
+*.swp
+*.swo
+
+# ============================================
+# Logs
+# ============================================
+logs/
+*.log
+
+# ============================================
+# Archivos de empaquetado
+# ============================================
+*.jar
+*.war
+*.ear
+
+# ============================================
+# Config y backups
+# ============================================
+*.bak
+*.old
